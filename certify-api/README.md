@@ -62,7 +62,7 @@ REQUEST BODY:
    }
 }
 
-*```/upload```: Get S3 signed URL to upload the file
+* ```/upload```: Get S3 signed URL to upload the file
 
 {
   "fileName": "FILE NAME",
