@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import axios from 'axios';
 
-import Config from '../../config/env';
+import Config from '../config/env';
 import Certificate from '../components/Certificate';
 
 class CertificateList extends Component {
